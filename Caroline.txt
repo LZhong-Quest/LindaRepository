@@ -1,2 +1,0 @@
-1. Set up Caroline.txt in branch master
-2. Add line2
